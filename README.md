@@ -1,6 +1,5 @@
 Here’s the response in GitHub `README.md` format:
 
-```markdown
 # To-Do App
 
 This is a simple To-Do application built with **ReactJS** and **NextJS**. The app allows users to add tasks, mark tasks as completed, and delete tasks as needed. It’s a perfect app for organizing daily tasks and keeping track of what needs to be done.
@@ -14,8 +13,7 @@ This is a simple To-Do application built with **ReactJS** and **NextJS**. The ap
 ## Tech Stack
 
 - **Frontend**: ReactJS, NextJS
-- **Styling**: (Add any styling libraries you used, e.g., CSS, Tailwind CSS, etc.)
-- **State Management**: (Mention if you used any state management library like Redux, Context API, etc.)
+- **Styling**: Tailwind CSS
 
 ## Installation
 
@@ -23,12 +21,12 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-todo-app.git
+   git clone https://github.com/arunpwr2712/TO-DO_APP.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd your-todo-app
+   cd TO-DO_APP
    ```
 
 3. **Install dependencies**:
