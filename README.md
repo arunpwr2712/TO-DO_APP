@@ -1,56 +1,36 @@
-Here’s the response in GitHub `README.md` format:
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# To-Do App
+## Getting Started
 
-This is a simple To-Do application built with **ReactJS** and **NextJS**. The app allows users to add tasks, mark tasks as completed, and delete tasks as needed. It’s a perfect app for organizing daily tasks and keeping track of what needs to be done.
+First, run the development server:
 
-## Features
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-- **Add Tasks**: Users can add new tasks by typing them into an input field.
-- **Mark Tasks as Completed**: Once a task is done, users can mark it as completed.
-- **Delete Tasks**: Users can remove tasks that they no longer need.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tech Stack
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-- **Frontend**: ReactJS, NextJS
-- **Styling**: Tailwind CSS
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Installation
+## Learn More
 
-To run the project locally, follow these steps:
+To learn more about Next.js, take a look at the following resources:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/arunpwr2712/TO-DO_APP.git
-   ```
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-2. **Navigate to the project directory**:
-   ```bash
-   cd TO-DO_APP
-   ```
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-3. **Install dependencies**:
-   ```bash
-   npm install
-   ```
+## Deploy on Vercel
 
-4. **Run the development server**:
-   ```bash
-   npm run dev
-   ```
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-5. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
-
-## Usage
-
-- **Add Task**: Type a task in the input field and press the "Add" button to create a new task.
-- **Complete Task**: Click the button next to a task to mark it as completed.
-- **Delete Task**: Click the "Delete" button to remove a task from the list.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you find any bugs or want to add new features.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
